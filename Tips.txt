@@ -1,0 +1,1 @@
+Always use <em> instead of <i> and <strong> instead of <b>
